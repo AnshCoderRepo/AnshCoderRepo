@@ -1,73 +1,85 @@
-# Ansh Adarsh / README.md
+# 🎨 Ansh Adarsh / README.md
 
-## Hi 👋
+## 🎯 Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-My name is Ansh Adarsh  
-
-### Find Me
-
-| GitHub | LinkedIn | Email | LeetCode | CodeChef | HackerRank |
-|---|---|---|---|---|---|
-| [AnshCoderRepo](https://github.com/AnshCoderRepo) | [ansh-adarsh2021](https://www.linkedin.com/in/ansh-adarsh2021) | anshk1126@gmail.com | [AnshAdarsh](link) | [AnshAdarsh](link) | [AnshAdarsh](link) |
-
-### Tech I Have Used
-
-- Python
-- JavaScript
-- Java
-- C++
-- React.js
-- Node.js
-- Next.js
-- Redux
-- SCSS
-- MongoDB
-- MySQL
-- Git/GitHub
-- CI/CD
-- Azure AI
-- Scikit-Learn
-- TensorFlow
-- Power BI
+My name is **Ansh Adarsh**  
+💻 **Full Stack Developer** | 🤖 **AI/ML Enthusiast** | 🏆 **Competitive Coder**
 
 ---
 
-### Core Skills
+### 🌐 Find Me
 
-- Full Stack Development
-- Machine Learning
-- Data Analytics
-- System Design
-- REST APIs
-- JWT Authentication
-- OTP Systems
-- Payment Integration (Razorpay)
-- Web Scraping (Selenium)
-- Data Visualization (Chart.js)
+| Platform | Badge | Link |
+|----------|-------|------|
+| **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | [AnshCoderRepo](https://github.com/AnshCoderRepo) |
+| **LinkedIn** | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [ansh-adarsh2021](https://linkedin.com/in/ansh-adarsh2021) |
+| **Email** | ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) | [anshk1126@gmail.com](mailto:anshk1126@gmail.com) |
+| **LeetCode** | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | [AnshAdarsh](link) |
+| **CodeChef** | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | [AnshAdarsh](link) |
 
 ---
 
-### Dev Projects
+### 🛠️ Tech Stack
 
-| Name | Status | Type | Links |
-|---|---|---|---|
-| Inventory Management System | Completed | Web App | [GitHub](link) [Live](link) |
-| Reddit-bot | Completed | Automation | [GitHub](link) |
-| Buzz-Board | Completed | Dashboard | [GitHub](link) [Live](link) |
-| Movie Recommendation System | Completed | Data Science | [GitHub](link) |
+#### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **DevOps & Cloud**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+#### **Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-### Education & Certifications
+### 🚀 Featured Projects
 
-🏫 **BTech in CSE** - Lloyd Institute of Engineering and Technology (8.2/10 SGPA)  
-📜 **Google Data Analytics Certificate**  
-📜 **Microsoft Power BI Certification**  
-📜 **Full Stack Development Certification**  
+| Project | Badges | Links |
+|---------|--------|-------|
+| **Inventory Management System** | ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248) | [GitHub](link) • [Live](link) |
+| **Reddit-bot** | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A) | [GitHub](link) |
+| **Buzz-Board** | ![React](https://img.shields.io/badge/-React-61DAFB) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384) | [GitHub](link) • [Live](link) |
 
 ---
 
-### Competitive Coding
+### 📚 Education & Certifications
 
-✅ 500+ problems solved (LeetCode, GFG, CodeChef, HackerRank)  
-🏆 Top 10 twice in Codethorn (LIET)  
+🎓 **BTech in CSE** - Lloyd Institute of Engineering and Technology  
+![GPA](https://img.shields.io/badge/GPA-8.2/10-blue)  
+📜 **Google Data Analytics** ![Google](https://img.shields.io/badge/-Google-4285F4)  
+📜 **Microsoft Power BI** ![Microsoft](https://img.shields.io/badge/-Microsoft-5E5E5E)  
+📜 **Full Stack Development** ![Full Stack](https://img.shields.io/badge/-Full_Stack-FF6F00)  
+
+---
+
+### 🏆 Achievements
+
+![LeetCode](https://img.shields.io/badge/Solved-500%2B%20Problems-FFA116?logo=leetcode)
+![CodeChef](https://img.shields.io/badge/Top%2010-Codethorn%20(LIET)-5B4638?logo=codechef)
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshCoderRepo&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshCoderRepo&layout=compact&theme=dark)
