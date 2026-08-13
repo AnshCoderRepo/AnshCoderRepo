@@ -141,13 +141,6 @@ A project I'm actively interested in improving and collaborating on.
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=AnshCoderRepo&theme=github-dark-blue&hide_border=true&locale=en" alt="GitHub contribution streak"/>
-  </a>
-</p>
 
 ---
 
